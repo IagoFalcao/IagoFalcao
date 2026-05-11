@@ -29,12 +29,13 @@
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=Solidity)
-
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
 
 ### Tools & Platforms
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
+
 
 ---
 
