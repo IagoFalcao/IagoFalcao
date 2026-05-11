@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi there 👋 I'm Iago Falcão
 
 💻 Computer Science student passionate about building intelligent systems, backend development, and solving real-world problems with code.
@@ -35,6 +34,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
+![OpenAi](https://img.shields.io/badge/-OpenAi-000?&logo=openai)
 
 
 ---
