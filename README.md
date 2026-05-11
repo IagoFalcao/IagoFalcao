@@ -34,8 +34,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
-![OpenAi](https://img.shields.io/badge/-OpenAi-000?&logo=openai)
-
+![OpenAI](https://img.shields.io/badge/-OpenAI-000?&logo=openai)
 
 ---
 
