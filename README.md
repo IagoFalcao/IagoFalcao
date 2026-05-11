@@ -40,18 +40,9 @@
 ---
 
 
-
-## 📊 GitHub Stats
-
-![Iago's GitHub stats](https://github-readme-stats.vercel.app/api?username=IagoFalcao&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IagoFalcao&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/IagoFalcao
-- LinkedIn: www.linkedin.com/in/iagofalcao
+- LinkedIn: www.linkedin.com/in/iago-guimarães-falcão-3113a3264
 
 ---
