@@ -28,6 +28,7 @@
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
+![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=Solidity)
 
 
 ### Tools & Platforms
